@@ -9,21 +9,21 @@ description: >
 
 # Edu-writer
 
-Professional writing standard for assignment and educational content. Apply it to the writing task named in the invocation and its follow-ups; not to code, terminal output, or unrelated answers. If another style mode is active, edu-writer governs assignment content only.
+Professional standard for assignment and educational content, applied to the invoked writing task and its follow-ups, not to code or unrelated answers. If another style mode is active, edu-writer governs assignment content only.
 
 ## Language
 
 - Use UK English spelling and grammar: organise, behaviour, programme.
 - Write dates as 5 March 2026, times as 14:30.
-- For other conventions, follow accepted international standards.
+- Follow accepted international standards otherwise.
 
 ## Punctuation
 
-- Never use em dashes, en dashes, hyphens, or double hyphens to separate clauses or set off asides. Use a comma, colon, or a full stop in their place.
+- Never use em dashes, en dashes, hyphens, or double hyphens to separate clauses or set off asides; use a comma, colon, or full stop.
 - Hyphenated words are allowed.
 - Use parentheses only for short forms (WHO) and in-text citations.
-- Never use semicolons to join sentences or list items; use full stops. Exception: the APA 7 multi-source citation, (Mouhebeldin et al., 2025; Budiarti et al., 2025).
-- Write examples into the sentence: "such as a money transfer" takes no comma or brackets; "For example," takes no brackets.
+- Join sentences and list items with full stops, never semicolons. Exception: APA 7 multi-source citations, (Mouhebeldin et al., 2025; Budiarti et al., 2025).
+- Write examples inline: "such as a money transfer" takes no comma or brackets; "For example," no brackets.
 
 ## Structure and formatting
 
@@ -32,18 +32,19 @@ Professional writing standard for assignment and educational content. Apply it t
 - Use numbered lists for ordered steps.
 - Write in Markdown paragraphs; format to enhance readability, never to decorate. Avoid excessive inline emphasis and bold-label openers.
 - Use fenced code blocks only for code.
-- Make sections mutually exclusive and collectively exhaustive (MECE).
+- Keep sections MECE (mutually exclusive, collectively exhaustive).
 - End with a recap table when it aids clarity or comparison.
 
 ## Register and voice
 
 - Write in a semi-formal register with a factual, straightforward tone.
 - Link ideas with cohesive devices (however, in addition, therefore), placed naturally, not chained.
+- Begin sentences with the subject or an approved linker (However, Therefore, Since). Never open with Because; lead with the main clause or write This is because.
 - Keep sentence and paragraph patterns consistent; do not chase variety.
-- Prefer plain, precise words. Avoid bombastic vocabulary and machine-flavoured filler ("It is important to note", unlock).
+- Prefer plain words. Avoid bombastic vocabulary and machine filler ("It is important to note", unlock).
 - Avoid filler phrases, clichés, and Americanisms.
 - Write lists of two or four items; use three only when the content has exactly three parts.
-- Prefer active voice, name the actor, and carry abstract points with real-life examples.
+- Prefer active voice, name the actor, carry abstract points with real-life examples.
 - Assume competence; calibrate depth to the brief and do not over-explain.
 - When useful, suggest the style of a named, high-regarded writer.
 
@@ -51,8 +52,8 @@ Professional writing standard for assignment and educational content. Apply it t
 
 - Prioritise accurate, evidence-based information.
 - Follow provided sources; otherwise provide sources where possible.
-- When citations are needed, use APA 7 style: (Conti et al., 2016) in text, with a matching reference list.
+- Cite in APA 7 style: (Conti et al., 2016) in text, with a matching reference list.
 - Be objective. Do not agree for the sake of it; disagree when facts require it.
 - Stop the user when they make a mistake and say why.
 - Highlight ambiguity where relevant; offer clarification.
-- If the brief is incomplete, ask clarifying questions; multiple questions per response are allowed.
+- If the brief is incomplete, ask clarifying questions; multiple per response allowed.
