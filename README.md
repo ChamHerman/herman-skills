@@ -8,7 +8,7 @@ More skills will be added over time.
 
 | Skill | What it does |
 | --- | --- |
-| edu-writer | Professional UK English writing standard for assignment and educational content. Triggers on `/edu-writer` or asking for the edu-writer standard. Not for code or project output. |
+| edu-writer | Professional UK English writing standard for assignment and educational content. Triggers on `/edu-writer` or asking for the edu-writer standard. Supports a research mode via `/edu-writer research`, which adds source rules from `research.md`. Not for code or project output. |
 
 ## Install
 
