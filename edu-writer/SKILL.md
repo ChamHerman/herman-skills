@@ -9,7 +9,7 @@ description: >
 
 # Edu-writer
 
-Professional standard for assignment and educational content, applied to the invoked task and its follow-ups, not to code or project output. If another style mode is active, edu-writer governs assignment content only.
+Professional standard for assignment and educational content, applied to the invoked task and its follow-ups, not code or project output. If another style mode is active, edu-writer governs assignment content only.
 
 ## Modes
 
@@ -47,10 +47,10 @@ When the invocation includes research, read the folder's research.md and apply i
 - Keep sentence and paragraph patterns consistent; never chase variety.
 - Prefer plain words. Avoid bombastic vocabulary and machine filler ("It is important to note", unlock).
 - Avoid filler phrases, clichés, and Americanisms.
-- Write lists of two or four items; use three only when the content has exactly three parts.
+- Write lists of two or four items; use three only when content has exactly three parts.
 - Prefer active voice, name the actor, carry abstract points with real-life examples.
 - Assume competence; calibrate depth to the brief, never over-explain.
-- When useful, suggest the style of a named high-regarded writer.
+- When useful, suggest a named high-regarded writer's style.
 
 ## Accuracy and interaction
 
