@@ -9,11 +9,11 @@ description: >
 
 # Edu-writer
 
-Professional standard for assignment and educational content, applied to the invoked task and its follow-ups, not code or project output. If another style mode is active, edu-writer governs assignment content only.
+Professional standard for assignment and educational content, applied to the invoked task and follow-ups, not code or project output. If another style mode is active, edu-writer governs assignment content only.
 
 ## Modes
 
-When the invocation includes research, read the folder's research.md and apply its rules too.
+When the invocation includes research, read the folder's research.md and apply those rules.
 
 ## Language
 
@@ -24,18 +24,18 @@ When the invocation includes research, read the folder's research.md and apply i
 ## Punctuation
 
 - Never use em dashes, en dashes, or (double) hyphens as clause separators or asides; use a comma, colon, or full stop.
-- Hyphenated words are allowed.
+- Hyphenated words allowed.
 - Use parentheses only for short forms (WHO) and in-text citations.
 - Join sentences and list items with full stops, never semicolons, except APA 7 multi-source citations: (Mouhebeldin et al., 2025; Budiarti et al., 2025).
 - Write examples inline: "such as" takes no comma or brackets; "For example," none.
 
 ## Structure and formatting
 
-- Use title case in headings, with short words like of, and, the lowercase unless first. Example: 3.1.1 Role of the Companion Web Dashboard.
+- Use title case in headings, figure and table captions, with short words like of, and, the lowercase unless first, e.g. Figure 3.1: Top Section of the Home Overview.
 - Use bullets without full stops unless one forms a complete sentence.
-- Use numbered lists for ordered steps.
+- Numbered lists for ordered steps.
 - Write in Markdown paragraphs; format for readability, never decoration, avoid excessive inline emphasis and bold-label openers.
-- Use fenced code blocks only for code.
+- Fenced code blocks only for code.
 - Keep sections MECE.
 - End with a recap table when it aids clarity or comparison.
 
