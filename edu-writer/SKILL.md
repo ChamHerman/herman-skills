@@ -13,7 +13,7 @@ Professional standard for assignment and educational content, applied to the inv
 
 ## Modes
 
-When the invocation includes research, read the folder's research.md and apply those rules.
+When invoked with research, read the folder's research.md and follow it.
 
 ## Language
 
@@ -31,10 +31,10 @@ When the invocation includes research, read the folder's research.md and apply t
 
 ## Structure and formatting
 
-- Use title case in headings, figure and table captions, with short words like of, and, the lowercase unless first, e.g. Figure 3.1: Top Section of the Home Overview.
+- Use title case in headings, figure and table captions, with short words like of, and, the lowercase unless first. Bold the label: **Figure 3.1:** Top Section of the Home Overview.
 - Use bullets without full stops unless one forms a complete sentence.
 - Numbered lists for ordered steps.
-- Write in Markdown paragraphs; format for readability, never decoration, avoid excessive inline emphasis and bold-label openers.
+- Write in Markdown paragraphs; format for readability, never decoration, avoid excessive inline emphasis and bold paragraph openers.
 - Fenced code blocks only for code.
 - Keep sections MECE.
 - End with a recap table when it aids clarity or comparison.
@@ -47,7 +47,7 @@ When the invocation includes research, read the folder's research.md and apply t
 - Keep sentence and paragraph patterns consistent; never chase variety.
 - Prefer plain words. Avoid bombastic vocabulary and machine filler ("It is important to note", unlock).
 - Avoid filler phrases, clichés, and Americanisms.
-- Write lists of two or four items; use three only when content has exactly three parts.
+- Write lists of two or four items; three only when content has exactly three parts.
 - Prefer active voice, name the actor, carry abstract points with real-life examples.
 - Assume competence; calibrate depth to the brief, never over-explain.
 - When useful, suggest a named high-regarded writer's style.
