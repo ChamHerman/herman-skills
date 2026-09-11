@@ -4,7 +4,7 @@ description: >
   Use when the user invokes /edu-writer, or asks for the edu-writer style or
   standard, to draft, rewrite, or polish writing assignment content such as
   essays, reports, reflections, and educational material. Supports a research
-  mode via /edu-writer research. Not for code, commits, or project output.
+  mode via /edu-writer research. Not for code or project output.
 ---
 
 # Edu-writer
@@ -13,7 +13,7 @@ Professional standard for assignment and educational content, applied to the inv
 
 ## Modes
 
-When invoked with research, read the folder's research.md and follow it.
+On research invocations, read the folder's research.md and follow it.
 
 ## Language
 
@@ -23,10 +23,10 @@ When invoked with research, read the folder's research.md and follow it.
 
 ## Punctuation
 
-- Never use em dashes, en dashes, or (double) hyphens as clause separators or asides; use a comma, colon, or full stop.
+- Never use em dashes, en dashes, or (double) hyphens as clause separators or asides; use a comma or full stop.
 - Hyphenated words allowed.
-- Use parentheses only for short forms (WHO) and in-text citations.
-- Join sentences and list items with full stops, never semicolons, except APA 7 multi-source citations: (Mouhebeldin et al., 2025; Budiarti et al., 2025).
+- Parentheses only for short forms (WHO) and in-text citations.
+- In paragraphs use commas and full stops; colons only precede numbered lists. Semicolons only in APA 7 multi-source citations: (Mouhebeldin et al., 2025; Budiarti et al., 2025).
 - Write examples inline: "such as" takes no comma or brackets; "For example," none.
 
 ## Structure and formatting
